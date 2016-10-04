@@ -1,0 +1,147 @@
+/*font-family: 'Shadows Into Light', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Baloo Bhai', cursive;
+*/
+
+#contenidos {
+	width: 1400px;
+	height: auto;
+	margin: :auto;
+	position: relative;
+	
+
+}
+
+body {
+
+	background-image:url(../img/fondo.jpg); 
+	background-repeat: no-repeat;
+	background-size: cover;	
+	body {
+		margin: 100px 30px 10px 70px;
+	}
+
+	p {
+		margin: 5px 500px 5px 50px;
+	}
+}
+
+h1{
+font-family: 'Shadows Into Light', cursive;
+color: white;
+margin-left: 400px;
+font-size: 60px;
+text-align: center;
+}
+
+h2{
+font-family: 'Indie Flower', cursive;
+color: white;
+margin-left: 400px;
+font-size: 30px;
+text-align: center
+
+}
+
+h3{
+font-family: 'Shadows Into Light', cursive;
+color: white;
+text-align: center;
+font-size: 10px;
+text-align: center;
+}
+
+h4{
+font-family: 'Baloo Bhai', cursive;
+color: white;
+text-align: center;
+font-size: 50px;
+text-align: center;
+
+}
+h5{
+font-family: 'Shadows Into Light', cursive;
+color: white;
+text-align: center;
+font-size: 15px;
+text-align: left;
+}
+header {   
+	font-color:white;
+	width: 1000px;
+	height: 120px;
+	background: rgba(255, 255, 255, 3, 5);
+}
+
+nav{
+
+	width: 1000px;
+	height: 50px;
+	text-decoration: red;
+	border-radius: 10px;
+
+}
+
+ul{
+	margin-left:450px;
+	padding-top: 50px;
+	
+
+
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: white;
+	margin: 5px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px black inset;
+
+	
+	
+}
+
+
+section {
+margin-top: 130px;
+margin-bottom: 10px;
+margin-left: 230px;
+margin-right: 30px;
+	width: 1000px;
+	height: 50px;
+	text-decoration: red;
+	border-radius: 15px;
+}
+
+
+
+
+footer{
+	width: 1430px;
+	height:30px;
+	background: maroon;
+	float:left;
+	margin-bottom: 10px;
+}
+
+p{
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 200px;
+	padding: 10px;
+	text-align: justify;
+
+}
+
+
+/*clases*/
+
+.ancho_menu_home{width: 900px;}
+.anchi_menu_paginas{width: 970px;}
+.menu:link{padding : 7px ;color: white;text-decoration: none;}
+.menu:visited{padding : 7px ;color: white;text-decoration: none;}
+.menu:hover{padding : 7px ;color: white;text-decoration: none;}
+.menu:active{padding : 7px ;color: white;text-decoration: none;}
+
